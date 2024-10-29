@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jasmin's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="header-left">
+            <a href="index.html" class="logo-link">
+            <span class="logo-icon">𖦹︎</span>
+            <span class="portfolio-title">Jasmin's Personal Portfolio</span>
+            </a>
+        </div>
+        <nav>
+            <ul>
+                <li class="active"><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="search-bar">
+            <input type="text" placeholder="Search...">
+            <button>⌕</button>
+        </div>
+    </header>
+
+    <section id="main-content" class="main-content">
+        <div class="left-column">
+            <p class="hello-world"><br>HELLO, WORLD!</p>
+            <h1>IT'S ME</h1>
+            <h1 class="name">JASMIN LORINO</h1>
+            <p class="description"><br>Welcome to my portfolio! As a passionate computer science student, my journey began when I discovered the thrill of research and coding. Throughout my academic career, I have delved into various research projects, and now developing a strong foundation in programming languages, algorithms, and coding practices.<br><br>I am proud to showcase my work, research endeavors, and coding projects, which reflect my commitment to innovation and technology.<br><br></p>
+            <button class="contact-me" onclick="window.location.href='contact.html'">CONTACT ME &nbsp;&nbsp;&nbsp;➤</button>
+        </div>
+
+        <div class="card-container">
+            <span class="prev">❮</span>
+            <div class="card-slider">
+                <div class="card">
+                    <img src="me3.png" alt="Projects">
+                    <h3>Projects</h3>
+                    <p>Proceed to this card button for more details about my projects.</p>
+                    <a href="projects.html" class="read-more">Read More</a>
+                </div>
+                <div class="card">
+                    <img src="me.png" alt="About Me">
+                    <h3>About Me</h3>
+                    <p>Proceed to this card button for more details about me.</p>
+                    <a href="about.html" class="read-more">Read More</a>
+                </div>
+                <div class="card">
+                    <img src="me2.png" alt="Contacts">
+                    <h3>Contacts</h3>
+                    <p>Proceed to this card button for more details about my contacts.</p>
+                    <a href="contact.html" class="read-more">Read More</a>
+                </div>
+            </div>
+            <span class="next">❯</span>
+        </div>
+    </section>
+
+    <br>
+    
+    <script src="hi.js"></script>
+</body>
+</html>
