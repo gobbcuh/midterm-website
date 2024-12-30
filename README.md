@@ -1,4 +1,4 @@
-# First Little Steps in Web Development: Static Website 🌐🌟
+# First Little Steps in Web Development: Static Website 🌐
 
 Welcome to my **first-ever website**! This project was crafted as part of my midterm project in the first term of my first year in college. Built with **HTML**, **CSS**, and **JavaScript**, this website is a product of countless hours of online research, tutorial watching, and hands-on practice. The journey of creating this website has been an exciting one, and I'm thrilled to share it as proof of my dedication and learning.
 
