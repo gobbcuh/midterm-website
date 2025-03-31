@@ -106,4 +106,4 @@ The interactive elements of the homepage, particularly the **slider**, are power
 - A huge thank you to all the YouTube tutorials, especially **Traversy Media** and **freeCodeCamp**, which have been instrumental in guiding me through this journey.
 - I am grateful for the **web development community**, which shares invaluable knowledge and resources that made this project possible.
 
-## Live Viewing: https://gobbcuh.github.io/midterm-website/
+### Live Viewing: https://gobbcuh.github.io/midterm-website/
