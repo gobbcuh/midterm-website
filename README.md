@@ -99,11 +99,11 @@ The interactive elements of the homepage, particularly the **slider**, are power
 - **Interactive Features**: Consider adding a **dark/light mode toggle** or enhance the **Projects** page with additional interactive elements like project previews.
 - **Backend Integration**: Introduce backend functionality to store form submissions or manage project portfolios.
 
-## Live Viewing: https://gobbcuh.github.io/midterm-website/
-
 ---
 
 ## 🙏 Acknowledgments
 
 - A huge thank you to all the YouTube tutorials, especially **Traversy Media** and **freeCodeCamp**, which have been instrumental in guiding me through this journey.
 - I am grateful for the **web development community**, which shares invaluable knowledge and resources that made this project possible.
+
+## Live Viewing: https://gobbcuh.github.io/midterm-website/
